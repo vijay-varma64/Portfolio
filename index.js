@@ -5,7 +5,7 @@ var typed = new Typed(".typing",{
     loop:true
 })
 var typed = new Typed(".typingg",{
-    strings:["","Web Designer","web Developer","Animator","Freelancer"],
+    strings:["","Web Designer","UI/UX Designer","Graphic Designer","Freelancer","Video Editor"],
     typeSpeed:60,
     BackSpeed:60,
     loop:true
